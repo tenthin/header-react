@@ -30,7 +30,9 @@ const Navbar = () => {
                      Sign Up
                  </NavLink>
              </NavMenu>
+             <NavBtn>
                 <NavBtnLink to='/signin'>Sign In</NavBtnLink>
+             </NavBtn>
          </Nav>
         </>
     )
